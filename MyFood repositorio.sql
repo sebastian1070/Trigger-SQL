@@ -110,6 +110,8 @@ Insert into Inventario (cantidad, valor) values (200, '3.715.350');
 
 
 --------------------------------------------------------------------------
+Procedimiento almacenado (Triggers)
+--------------------------------------------------------------------------
 create table  TipoProductos2 (
 idTipoProducto2 int primary key auto_increment,
 nuevoTipoProducto varchar (50) not null,
