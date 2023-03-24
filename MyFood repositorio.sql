@@ -96,12 +96,12 @@ Insert into Factura (cantidad, fechaVenta) values (3, '2023-02-10 19:40');
 -- Productos
 Insert into Productos (nombreProducto, valorVenta) values ('Manzanas', 32.500);
 Insert into Productos (nombreProducto, valorVenta) values ('Papas fritas margarita', 7.500);
-Insert into Productos (nombreProducto, valorVenta) values ('Arina de trigo', 10.500);
+Insert into Productos (nombreProducto, valorVenta) values ('harina de trigo', 10.500);
 
 -- Tipo Productos
 Insert into TipoProductos (nombreTipoProducto) values ('Frutas');
 Insert into TipoProductos (nombreTipoProducto) values ('Paquetes');
-Insert into TipoProductos (nombreTipoProducto) values ('Arinas');
+Insert into TipoProductos (nombreTipoProducto) values ('harinas');
 
 -- Inventario
 Insert into Inventario (cantidad, valor) values (50, '1.110.000');
