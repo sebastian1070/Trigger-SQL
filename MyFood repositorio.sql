@@ -130,3 +130,5 @@ for each row
         values ('Carnes', now(), 'Nuevo tipo de producto agregado');
     end;
 //
+
+Link del video: https://youtu.be/ZUZEMzggOas
